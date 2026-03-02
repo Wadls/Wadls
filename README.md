@@ -4,9 +4,13 @@
 - 🌐 Desenvolvedor Full-Stack | 📚 Sempre aprendendo
 - 🎨 Estudando design nas horas vagas
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wadls&theme=tokyonight&hide_border=true"/>
+</p>
+
 ![Wadls GitHub stats](https://github-readme-stats.vercel.app/api?username=Wadls&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wadls&theme=dark&layout=donut-vertical&langs_count=5)](https://github.com/Wadls/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadls&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+
 ### 📊 Linguagens mais utilizadas
 
  
