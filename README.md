@@ -9,7 +9,7 @@
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Wadls&theme=github_dark" />
 </p>
-##📊 Linguagens mais utilizadas
 
+<h2>📊 Linguagens mais utilizadas</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=mysql,php,python,bootstrap,js,html,css,git)](https://skillicons.dev) 
