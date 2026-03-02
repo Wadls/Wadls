@@ -4,7 +4,7 @@
 - 🌐 Desenvolvedor Full-Stack | 📚 Sempre aprendendo
 - 🎨 Estudando design nas horas vagas
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=Wadls&theme=tokyonight&hide_border=true"/>
 </p>
 
