@@ -10,5 +10,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,pr,ae)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bootstrap,php)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,php,python,bootstrap,js,html,css,git)](https://skillicons.dev)  
